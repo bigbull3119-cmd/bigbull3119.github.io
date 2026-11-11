@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "hr.pro",
+    "sha256_cert_fingerprints": ["6F:9E:61:FA:16:84:CD:CF:64:DE:DA:5A:77:97:1A:21:2D:3C:A9:F4:D1:88:F2:BB:F6:A7:5D:8E:07:B6:80:29"]
+  }
+}]
